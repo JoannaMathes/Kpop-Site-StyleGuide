@@ -151,7 +151,7 @@ footer {
 
 @media screen and (max-width: 725px) {
     body {
-        background-image: url('../images/mobile\ background.jpeg');
+        background-image: url('../images/mobile-background.jpeg');
         background-attachment: fixed;
     }
     h1 {
