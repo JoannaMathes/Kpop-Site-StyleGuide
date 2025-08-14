@@ -13,6 +13,7 @@ body {
     background-position: 62% 40%;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    transition: background-image 0.5s ease-in-out;
 }
 
 header, section {
@@ -23,6 +24,7 @@ header, section {
     background-color: rgba(255, 255, 255, 0.75);
     text-align: center;
     padding: 15px 25px;
+    transition: width 0.5s ease-in-out;
 }
 p {
     font-family: "Exo 2";
